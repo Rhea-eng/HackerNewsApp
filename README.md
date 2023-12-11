@@ -1,6 +1,4 @@
-# Project Lyrics
-
-Develop an elegant hacker news app.
+# Hacker New App
 
 Check out the complete project requirements [here](https://docs.google.com/document/d/1mKr3TdzueeDJ4L69CI_SCwtRB23Zw1dtQpyYR8m3UQM/edit)
 
